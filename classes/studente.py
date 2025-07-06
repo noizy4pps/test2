@@ -8,4 +8,3 @@ class Studente(Persona):
         super().__init__(nome, cognome, età, residenza)
         self.corso_di_studio = corso_di_studio
 
-# comment..
