@@ -13,7 +13,7 @@ def esegui():
 
 def esegui2():
     parla("milano")
-    conta(5, 35, "-")
+    conta(5, 36, "-")
 
 
 if __name__ == "__main__":
