@@ -11,6 +11,10 @@ def esegui():
     studente_uno.modifica_scheda()
     print(studente_uno.scheda_personale())
 
+def esegui2():
+    parla("milano")
+    conta(5, 35, "-")
+
 
 if __name__ == "__main__":
     esegui()
